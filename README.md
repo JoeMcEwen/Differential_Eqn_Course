@@ -1,2 +1,2 @@
 # Differential_Eqn_Course
-Codes for the differential equation course
+Codes for differential equation course
