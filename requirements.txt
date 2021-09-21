@@ -2,3 +2,4 @@ matplotlib==3.3.4
 sympy==1.7.1
 numpy==1.19.2
 scipy==1.6.2
+ffmpeg==4.3.2
